@@ -60,3 +60,16 @@ Exported the map as an image.
 Found some cricket icons and placed, trying to make it look like they are doing battle.    
 
 Inverted colour palette.  
+
+
+## Day Three
+
+Created a Lucid diagram about how I will spend time.
+
+Tricked it up  a bit.  
+
+## Day Four  
+
+Worked on the Foundry VTT module.  
+
+Set up Git to work with local environment.  
