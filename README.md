@@ -68,8 +68,11 @@ Created a Lucid diagram about how I will spend time.
 
 Tricked it up  a bit.  
 
+
 ## Day Four  
 
 Worked on the Foundry VTT module.  
 
-Set up Git to work with local environment.  
+Created release and manifest URL so system can be installed by Foundry VTT.  
+
+Development of rules (system) and game (world) is now possible.  
