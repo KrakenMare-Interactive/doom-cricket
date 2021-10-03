@@ -1,6 +1,6 @@
 {
   "name": "doomcricket",
-  "version": "1.0.0",
+  "version": "v.0.0.1",
   "description": "CSS compiler for the DoomCricket system",
   "scripts": {
     "build": "gulp build",
