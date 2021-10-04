@@ -76,3 +76,7 @@ Worked on the Foundry VTT module.
 Created release and manifest URL so system can be installed by Foundry VTT.  
 
 Development of rules (system) and game (world) is now possible.  
+
+I am struggling a bit with the release cycle and also how to simply change the character sheet.  
+
+More research required but I *think* I have the scaffolding in place.  
