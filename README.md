@@ -13,8 +13,10 @@ Fette Trump-Deutsch
 Blood Crow
 
 ## Images
-
 Cricket icons from AdobeStock_38041298  
+
+
+
 
 
 
@@ -32,6 +34,8 @@ then inverted it.
 ### Wood
 d7cb89 willow wood  
 
+### Cricket ball red  
+E43414
 
 
 # DevLog
@@ -122,3 +126,10 @@ This will allow for more rapid prototyping.
 Successfully deployed this and successfully tested locally and on The Forge.  
 Adjusted oval dimensions.  
 Created wicket tile.  
+
+
+## Day Eleven
+
+Continued progress on basic assets for the game. Made a ball and a batsman and an
+umpire. Did some troubleshooting to fix the way actors are created TODO- must update the package itself
+(by copying doomcricket from local into the remote).   
