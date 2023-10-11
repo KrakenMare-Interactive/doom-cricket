@@ -1,10 +1,9 @@
-/* Define some data types */
-
 
 #include <stdio.h>
 
 int main() {
 
+/* Define some data types */
   int age = 30; // integer type
   char firstLetter = 'D'; // character type
   double pi = 3.14159265358979323846; // a double-precision floating point
@@ -13,7 +12,7 @@ int main() {
   printf("First letter: %c\n", firstLetter);
   printf("Value of pi: %lf\n", pi);
 
-  /* Program to get user input */
+/* Program to get user input */
 
   char dish[50]; // this is an array of characters, one is reserved
   printf("What's your favourite spicy food? \n");
