@@ -1,9 +1,14 @@
 # Doom Cricket
 The game of violent fantasy cricket.  
 
-This repo is for general capturing of activities and asset creation.  
 
-The main deliverable is in a different repo, dedicated to the Foundry VTT system.  
+
+
+# Developer update 11th October 2023
+
+I will be spending 60 sessions to create a new prototype.  
+- Game engine will be written in C  
+
 
 
 # Credits
