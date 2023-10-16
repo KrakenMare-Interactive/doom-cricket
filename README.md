@@ -9,6 +9,23 @@ The game of violent fantasy cricket.
 I will be spending 60 sessions to create a new prototype.  
 - Game engine will be written in C  
 
+Sessions Overview:
+
+Sessions 1-6: Git Refresher & C Programming Basics.
+Sessions 7-10: Introduction to Data Structures in C.
+Sessions 11-55: Game Development, Data Structures Integration, and Data Capture.
+Sessions 56-60: Preparing for Web Deployment, WebAssembly, and Online Feedback Collection.
+Sessions 1-55: [Unchanged from Plan 3.0]
+
+Sessions 56-60: Web Deployment and Feedback Collection
+56. Session 56: Introduction to WebAssembly and Emscripten: How to compile C code to run on the web.
+
+Session 57: Compiling your game using Emscripten, creating a basic HTML/JS wrapper to host your game.
+Session 58: Setting up a basic server and hosting configuration for www.doomcricket.com. (Consider using a platform like Netlify or Vercel for easy deployment).
+Session 59: Deploy the game prototype on www.doomcricket.com. Ensure the game runs smoothly, and add a feedback form for users (using a tool like Google Forms).
+Session 60: Analyze the initial feedback, test data collection mechanisms, and make any urgent refinements to the game or deployment setup.
+
+
 
 
 # Credits
